@@ -1,2 +1,2 @@
 # MyProject
-Repository baru dari PC Jepang
+REpository baru dari PC Jepang
